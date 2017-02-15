@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"weights",
+		"bias",
+		"learningRate"
+	],
+	"name" : "Perceptron",
+	"type" : "normal"
+}

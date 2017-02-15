@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dataset",
+		"learningRate",
+		"epoch",
+		"kfold"
+	],
+	"name" : "Training",
+	"type" : "normal"
+}
